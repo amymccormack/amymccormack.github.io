@@ -1,8 +1,8 @@
 <ol class="breadcrumb">
  
   <!--add home crumb if not already at the homepage-->
-  {% if page.permalink != "/home/" %}
-    <li><a href="/home/">Home</a></li>
+  {% if page.permalink != "/" %}
+    <li><a href="/">Home</a></li>
 
     <!--add cat breeds page crumb if viewing details page-->
     {% if page.breed_txt %}
