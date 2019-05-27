@@ -11,4 +11,7 @@ hairType_txt: Long
 trait_txt: Docile
 playfullness_txt: Serious
 intelligence_txt: Intelligent
+
+category_list: 
+  - category_txt: Serious
 ---
