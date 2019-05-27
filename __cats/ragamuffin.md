@@ -11,4 +11,7 @@ hairType_txt: Medium-Long
 trait_txt: Cuddly
 playfullness_txt: Silly
 intelligence_txt: Intelligent
+
+category_list: 
+  - category_txt: Silly
 ---

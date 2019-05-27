@@ -27,4 +27,14 @@ images_list:
   - img_txt: /assets/site/images/Snowshoe.jpg
     link_txt: /cats/snowshoe/
 
+filter_list:
+  - filter_txt: Abyssinian
+  - filter_txt: American Shorthair
+  - filter_txt: Bombay
+  - filter_txt: Chartreux
+  - filter_txt: Egyptian Mau
+  - filter_txt: Himalayan
+  - filter_txt: Japanese Bobtail
+  - filter_txt: Ragamuffin
+  - filter_txt: Snowshoe
 ---

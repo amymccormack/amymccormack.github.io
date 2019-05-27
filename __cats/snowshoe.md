@@ -11,4 +11,7 @@ hairType_txt: Short
 trait_txt: Chooses Favourites
 playfullness_txt: Playful
 intelligence_txt: Intelligent
+
+category_list: 
+  - category_txt: Playful
 ---

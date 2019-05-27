@@ -167,6 +167,8 @@ defaults:
       trait_txt: ""
       playfullness_txt: ""
       intelligence_txt: ""
+      category_list:
+        - category_txt: ""
     labels: 
       title: Title
       author: Author
@@ -180,6 +182,9 @@ defaults:
       trait_txt: Defining Trait
       playfullness_txt: Playfullness Level
       intelligence_txt: Intelligence Level
+      category_list: Category List
+      category_txt: Category List Item
+      
 
 
 ######################################################################

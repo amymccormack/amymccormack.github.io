@@ -11,4 +11,7 @@ hairType_txt: Short or Long
 trait_txt: Bunny Tail
 playfullness_txt: Playful
 intelligence_txt: Intelligent
+
+category_list: 
+  - category_txt: Playful
 ---

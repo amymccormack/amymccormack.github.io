@@ -11,4 +11,7 @@ hairType_txt: Short
 trait_txt: Hunter
 playfullness_txt: Serious
 intelligence_txt: Intelligent
+
+category_list: 
+  - category_txt: Serious
 ---

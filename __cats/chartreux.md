@@ -11,4 +11,7 @@ hairType_txt: Short
 trait_txt: Silent Mime
 playfullness_txt: Silly
 intelligence_txt: Intelligent
+
+category_list: 
+  - category_txt: Silly
 ---

@@ -11,4 +11,7 @@ hairType_txt: Medium
 trait_txt: Spotted Silver-y Coat
 playfullness_txt: Playful
 intelligence_txt: Intelligent
+
+category_list: 
+  - category_txt: Playful
 ---
